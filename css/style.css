@@ -51,7 +51,7 @@ section{
 	background-repeat: no-repeat;
 }
 input::placeholder{
-	color: #fff;
+	color: #fff!important;
 }
 /*----------Footer-----------*/
 #social ul>li>a{
