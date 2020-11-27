@@ -50,7 +50,7 @@ section{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
-.form-control::placeholder{
+.contact-input::placeholder{
 	color: #fff!important;
 }
 /*----------Footer-----------*/
