@@ -50,7 +50,7 @@ section{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
-input::placeholder{
+form-control::placeholder{
 	color: #fff!important;
 }
 /*----------Footer-----------*/
