@@ -50,6 +50,9 @@ section{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
+::placeholder{
+	color: #fff;
+}
 /*----------Footer-----------*/
 #social ul>li>a{
 	width: 2.5rem;
