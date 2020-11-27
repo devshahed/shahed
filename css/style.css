@@ -50,7 +50,7 @@ section{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
-::placeholder{
+input::placeholder{
 	color: #fff;
 }
 /*----------Footer-----------*/
